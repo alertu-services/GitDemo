@@ -5,3 +5,5 @@ This is a A.txt file. This is our first file.
 *@desc This is a funcction to generate random nnumber
 */
 (Math.random()*((max-min)+1))+min;
+
+Edited By Gaurav------>Thanx for the demo MAMA
