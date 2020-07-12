@@ -1,1 +1,7 @@
-This is a A.txt file. This is our first file
+This is a A.txt file. This is our first file.
+
+/**
+*@author Debashish 
+*@desc This is a funcction to generate random nnumber
+*/
+(Math.random()*((max-min)+1))+min;
