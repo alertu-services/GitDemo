@@ -6,4 +6,15 @@ This is a A.txt file. This is our first file.
 */
 (Math.random()*((max-min)+1))+min;
 
+<<<<<<< HEAD
 Edited By Gaurav------>Thanx for the demo MAMA
+=======
+Edited By Gaurav------>Thanx for the demo MAMA
+
+
+// This is added for checking commit 1 for cherry-pick
+
+// This is added for checking commit 2 for cherry-pick
+
+// This is added for checking commit 3 for cherry-pick
+>>>>>>> 0155a8a... Author: Deb, Desc: Commit_3 for cherrypick
